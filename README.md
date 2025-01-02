@@ -20,11 +20,15 @@ This repository serves as a base template for a project that involves a server t
 ## Installation
 
 ### 1. Clone the repository:
+```shell
 git clone https://github.com/FlappyGrantStudios/Granttoonz-Server-Template.git
 cd granttoonz
+```
 
 ### 2. Install dependencies:
+```shell
 npm install
+```
 
 ### 3. Setup the environment file:
 Copy `.env.example` to `.env` and edit the values as needed:
